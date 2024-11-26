@@ -23,7 +23,7 @@ body {
 }
 
 .hero {
-  background-image: url(Asset/uin.jpeg);
+  background-image: url(asset/uin.jpeg);
   margin: 0 auto;
   width: 95%;
   height: 450px;
